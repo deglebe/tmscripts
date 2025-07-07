@@ -1,2 +1,7 @@
 # tmscripts
-my tampermonkey scripts
+a collection of various tampermonkey scripts i have written to improve my
+experience using the web
+
+### hide youtube shorts
+hides the youtube short shelves on the homepage/channel page with css, with
+a fallback for any future changes
