@@ -19,3 +19,6 @@ removes and keeps removing the google one-tap popup globally
 automatically clicks reject cookies on gdpr-compliant cmp cookie banners
 
 *help wanted: further localisations for international websites*
+
+### hide youtube recommendations
+hides the youtube recommendation sections on the homepage and the sidebar
