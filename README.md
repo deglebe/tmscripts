@@ -22,3 +22,10 @@ automatically clicks reject cookies on gdpr-compliant cmp cookie banners
 
 ### hide youtube recommendations
 hides the youtube recommendation sections on the homepage and the sidebar
+
+### hide instagram reels
+hides the instagram reels button in the sidebar and the tab on profiles. does
+not block reels outright due to not wanting to block video capabilities
+outright. i do not have an instagram account (i made one expressly for this
+script at the request of a friend, and deleted it soon after) and so i am not
+really capable of updating it if instagram's structure changes.
